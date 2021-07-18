@@ -2,7 +2,6 @@
 
 namespace Cleaner
 {
-    
     public class Menu
     {
         public void EnterGreeting()
@@ -12,7 +11,6 @@ namespace Cleaner
             Console.WriteLine("****** Добро пожаловать! ******");
             Console.WriteLine("*******************************");
         }
-
         public void EnterChoice()
         {
             Console.ForegroundColor=ConsoleColor.Green;
@@ -36,15 +34,11 @@ namespace Cleaner
                     Console.WriteLine("Некорректный ввод! Выберите заново!");
                     break;
             }
-            
-            
         }
-
         public void EnterError()
         {
             Console.ForegroundColor=ConsoleColor.Red;
             Console.WriteLine("Введены некорректные данные!! Пожалуйста повторите ввод.");
         }
-        
     }
 }

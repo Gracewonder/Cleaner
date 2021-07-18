@@ -24,5 +24,12 @@ namespace Cleaner
             Console.ForegroundColor=ConsoleColor.Red;
             Console.WriteLine("Введены некорректные данные!! Пожалуйста повторите ввод.");
         }
+        public void EnterExit()
+        {
+            Console.ForegroundColor=ConsoleColor.Yellow;
+            Console.WriteLine("*************************");
+            Console.WriteLine("****** Досвидания! ******");
+            Console.WriteLine("*************************");
+        }
     }
 }

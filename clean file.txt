@@ -1,0 +1,26 @@
+C:\Windows\Temp
+C:\Users\Student RPO\AppData\Local\Temp
+C:\$RECYCLE.BIN
+
+Кэш браузера Google Chrome:
+C:\Users\Student RPO\AppData\Local\Google\Chrome\User Data\Default\Cache
+C:\Users\Student RPO\AppData\Local\Google\Chrome\User Data\Profile 1\Cache
+
+Кэш браузера Internet Explorer:
+C:\Users\Student RPO\AppData\Local\Microsoft\Windows\INetCache\
+C:\Users\Student RPO\AppData\Local\Microsoft\Windows\Temporary Internet Files\
+
+
+
+При установленных браузерах:
+Кэш браузера Opera:
+C:\Users\Student RPO\AppData\Local\Opera Software\Opera Stable\Cache
+
+Кэш браузера Mozilla Firefox:
+C:\Users\Student RPO\AppData\Local\Mozilla\Firefox\Profiles\abcd1234.default\cache2\entries
+
+Кэш браузера Яндекс Браузер:
+C:\Users\Пользователь\AppData\Local\Yandex\YandexBrowser\User Data\Default\Cache
+
+
+

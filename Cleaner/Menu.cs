@@ -29,6 +29,8 @@ namespace Cleaner
                     break;
                 case 2:
                     break;
+                case 3 :
+                    break;
                 default:
                     Console.ForegroundColor=ConsoleColor.Red;
                     Console.WriteLine("Некорректный ввод! Выберите заново!");

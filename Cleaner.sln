@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cleaner", "Cleaner\Cleaner.csproj", "{31BD80C4-59A7-4DC0-8127-D907A54FEC6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "Logger\Logger.csproj", "{65045AC8-AC5B-41A9-B2C6-B94052EEFB84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31BD80C4-59A7-4DC0-8127-D907A54FEC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BD80C4-59A7-4DC0-8127-D907A54FEC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BD80C4-59A7-4DC0-8127-D907A54FEC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BD80C4-59A7-4DC0-8127-D907A54FEC6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65045AC8-AC5B-41A9-B2C6-B94052EEFB84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65045AC8-AC5B-41A9-B2C6-B94052EEFB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65045AC8-AC5B-41A9-B2C6-B94052EEFB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65045AC8-AC5B-41A9-B2C6-B94052EEFB84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
